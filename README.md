@@ -17,3 +17,5 @@ Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remai
 *   Random Forest Classifier
 *   Decision Tree Classifier 
 *   Naive Bayes Classifier
+
+In this machine learning project, we have collected the dataset from Kaggle (https://www.kaggle.com/ronitf/heart-disease-uci) and we will be using Machine Learning to make predictions on whether a person is suffering from Heart Disease or not.
