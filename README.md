@@ -19,3 +19,12 @@ Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remai
 *   Naive Bayes Classifier
 
 In this machine learning project, we have collected the dataset from Kaggle (https://www.kaggle.com/ronitf/heart-disease-uci) and we will be using Machine Learning to make predictions on whether a person is suffering from Heart Disease or not.
+
+
+**File Descriptions**
+data.csv: the dataset file.
+Heart_Disease_Prediction.ipynb: contains the code of data exploration, preparation and modeling.
+models.pkl: the classification model.
+heart_disease_app.py: Flask API that bind between the classification model and the web page.
+templates:
+Heart_Disease_Classifier.html: a web page that contains a form for heart disease testing.
